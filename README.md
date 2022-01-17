@@ -1,5 +1,5 @@
 # Courses-Taken
-List of courses I've taken at McMaster 
+List of courses I have taken each year in my undergraduate degree
 
 ## Year 1
 Introductory Chemistry I and II (CHEM 1A03, CHEM 1AA3)
@@ -56,7 +56,7 @@ Numbers for Life (MATH 2UU3)
 Medical Terminology (CLASSICS 2MT3)
 
 
-### Ongoing
+### Ongoing (Winter 2022)
 
 Senior Thesis (CHEM 4G12)
 
