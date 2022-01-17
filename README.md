@@ -1,7 +1,7 @@
 # Courses-Taken
 List of courses I have taken each year in my undergraduate degree
 
-## Year 1
+## Year 1 (2018-2019)
 Introductory Chemistry I and II (CHEM 1A03, CHEM 1AA3)
 
 Introductory Physics I and II (PHYSICS 1C03, PHYSICS 1CC3)
@@ -16,7 +16,7 @@ Literature in English: Longer Genres (ENGLISH 1AA3)
 
 Introduction to Psychology, Neuroscience and Behaviour (PSYCH 1X03)
 
-## Year 2
+## Year 2 (2019-2020)
 Inquiry for Chemistry (CHEM 2Q03)
 
 Introduction to Microbiology and Biotechnology (BIO 2EE3)
@@ -35,7 +35,7 @@ Introduction to Inorganic Chemistry (CHEM 2II3)
 
 Tools for Chemical Discovery - lab course (CHEM 2LB3)
 
-## Year 3
+## Year 3 (2020-2021)
 Mathematical Tools for Chemical Problems (CHEM 3PC3)
 
 Proteins and Nucleic Acids (BIOCHEM 3G03)
@@ -48,7 +48,7 @@ Introduction to Transition Metal Chemistry (CHEM 3II3)
 
 Work term at Gay Lea Foods as R&D Assistant
 
-## Year 4
+## Year 4 (2021-2022)
 Strategies for Chemical Discovery - lab course (CHEM 3LA3)
 
 Numbers for Life (MATH 2UU3)
@@ -56,7 +56,7 @@ Numbers for Life (MATH 2UU3)
 Medical Terminology (CLASSICS 2MT3)
 
 
-### Ongoing (Winter 2022)
+## Ongoing (Winter 2022)
 
 Senior Thesis (CHEM 4G12)
 
